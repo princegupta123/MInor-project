@@ -12,9 +12,3 @@ This is the my frist minor project, i have made it to avoid reptition and practi
 Author,
 Prince Gupta
 
-# *Tech stack*
-  * Numpy
-  * If-elif-else
-  * Loop
-  * Function
-  * Operators
